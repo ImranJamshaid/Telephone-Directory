@@ -1,5 +1,5 @@
 Telephone Directory Management System
-The Telephone Directory Management System is a C++ project that enables users to manage contacts efficiently. With features such as add, update, search, delete, and sort, it offers practical contact management capabilities. This project demonstrates the usage of linked lists for data organization, making it suitable for personal or small-scale organizational use.
+The Telephone Directory Management System is a C++ DSA project that enables users to manage contacts efficiently. With features such as add, update, search, delete, and sort, it offers practical contact management capabilities. This project demonstrates the usage of linked lists for data organization, making it suitable for personal or small-scale organizational use.
 
 Features
 Add Contact: Add new contacts with name, phone number, city, and CNIC.
